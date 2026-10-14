@@ -1,5 +1,13 @@
 # AI-Powered Contract Intelligence & Risk Scoring
 
+**Live Demo:** https://ai-contract-intelligence-4797jhtk5zrjqgu9c2evve.streamlit.app/
+
+A Python-based application that analyzes contract documents, identifies important clauses, extracts basic entities, and flags potentially risky wording for human review.
+
+## Important Disclaimer
+
+The risk score is generated using rule-based phrase matching and configured risk patterns. It is intended to assist preliminary contract review, not replace professional legal advice. All flagged clauses and results should be reviewed by a qualified human reviewer.
+
 ## Overview
 A Python-based application that analyzes contract documents, identifies important clauses, extracts basic entities, and flags potentially risky wording for human review.
 
