@@ -1,0 +1,15 @@
+SAMPLE COMMERCIAL SERVICES AGREEMENT
+
+This Agreement is entered into on October 1, 2026 between Example Client and Example Services Ltd.
+
+Payment: The client shall pay a purchase price of $12,500 within thirty days of invoice. Late fee may apply to overdue balances.
+
+Renewal: This Agreement will automatically renew for successive one-year renewal terms unless either party provides written notice at least ninety days before the end of the current term.
+
+Confidentiality: Each party must keep confidential information received from the other party confidential and use it only to perform this Agreement.
+
+Termination: Either party may terminate this Agreement for a material breach if the breach is not remedied within thirty days after written notice.
+
+Liability: The supplier will indemnify and hold harmless the client from third-party claims arising from the supplier's negligence, subject to the limitations in this Agreement.
+
+Governing Law: This Agreement is governed by the laws of Maharashtra, India. The courts in Pune shall have jurisdiction.
